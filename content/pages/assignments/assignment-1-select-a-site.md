@@ -17,9 +17,9 @@ A land use means a type of use, for example residential (single family homes, ap
 
 Boundary Maps for reference:
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[MIT Neighborhood, 1866–1916 (PDF - 4.5MB)]({{< baseurl >}}/resources/mit11_016js15_backbaymap)
+[MIT Neighborhood, 1866–1916 (PDF - 4.5MB)]({{< baseurl >}}/resources/mit11_016js15_backbaymap)
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)MIT Neighborhood, 1916-present (PDF - 4MB)]({{< baseurl >}}/resources/11016j_s15_cambridgemap)
+[MIT Neighborhood, 1916-present (PDF - 4MB)]({{< baseurl >}}/resources/11016j_s15_cambridgemap)
 
 **Where do you start?**
 
