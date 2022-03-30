@@ -9,6 +9,7 @@ image_metadata:
   credit: Map via the United States Geological Survey. This image is in the public
     domain.
   image-alt: A topographical map of Boston and Cambridge.
+parent_uid: bf39994b-1e14-9bcb-34d1-e88a771e27fe
 resourcetype: Image
 title: 11016js15_usgstopomap.jpg
 uid: cbf831f1-7e0d-29e7-28e7-bb8b338420f6
